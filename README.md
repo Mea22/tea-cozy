@@ -5,7 +5,7 @@
  ### links
   
 - Solution URL: https://github.com/Mea22/tea-cozy
-- Live Site URL: 
+- Live Site URL: https://mea22.github.io/tea-cozy/
 
 ### Built with
 
